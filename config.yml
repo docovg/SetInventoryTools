@@ -1,0 +1,14 @@
+clear_inventory: true  # true ou false
+
+items:
+  '0': # Slot 0 de l'inventaire
+    type: DIAMOND_SWORD
+    name: "&6Épée de guts"
+    lore:
+      - "&7Une épée incroyable.."
+      - "&7Griffiiiiiiiiiithhhhhh !"
+    enchantments:
+      DAMAGE_ALL: 5
+  '1': # Slot 1 de l'inventaire
+    type: GOLDEN_APPLE
+    amount: 5
